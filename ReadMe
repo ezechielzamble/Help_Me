@@ -3,7 +3,7 @@
 Ce projet contient les dossiers suivants :
    Ajax : qui contient des pages références au code Ajax
   Body : qui contient la « topbar » inclus dans tout le site
-Doc_charge : qui représente le dossier dans lequel tous les fichiers uploadés se retrouve
+Doc_charge : qui représente le dossier dans lequel tous les fichiers uploadés se retrouvent
 Doc_existant : contient tous les documents qui sont et seront utilisés dans le site
 Function : contient les fonctions appelées par les pages principales (concernés)
 Images : contient les images utilisées par l’ensemble du site
