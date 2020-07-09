@@ -1,0 +1,16 @@
+****************************************************************description du projet
+
+Ce projet contient les dossiers suivants :
+   Ajax : qui contient des pages références au code Ajax
+  Body : qui contient la « topbar » inclus dans tout le site
+Doc_charge : qui représente le dossier dans lequel tous les fichiers uploadés se retrouve
+Doc_existant : contient tous les documents qui sont et seront utilisés dans le site
+Function : contient les fonctions appelées par les pages principales (concernés)
+Images : contient les images utilisées par l’ensemble du site
+Js : contient les fonctions Js de tout le site
+Pages :  dossier dans lequel se trouve l’ensemble des pages du site
+Styles : contient l’ensemble du code CSS du site
+Certaines pages on étés créées juste pour effectuer des tests, à cet effet vous trouverez plusieurs pages n’ont utilisés.
+Explication de la simulation : pour la simulation, nous avons utilisés 2 documents enregistrés dans la base de données, sur la page home dans le dossier l2 Miage vous trouverez les deux fichiers enregistrés que vous pouvez télécharger ou consulter en ligne.
+Lorsque vous cliquez sur share doc et vous uploader le fichier .pdf il est automatiquement stocké dans le dossier doc_charge.
+Concernant le tchat, l’interface est à titre indicatif, la solution finale sera disponible en fin de semaine. Merci de nous le signaler si vous voulez toujours le voir.
